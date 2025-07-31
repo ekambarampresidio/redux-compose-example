@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeExample</string>
+    <string name="title">Profile</string>
+    <string name="tab1">Posts</string>
+    <string name="tab2">Following</string>
+    <string name="tab3">Followers</string>
+</resources>
